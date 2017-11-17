@@ -5,7 +5,7 @@ using System.Text;
 
 namespace FirstSolution
 {
-    public class Class1
+    public class TestClass
     {
     }
 }
